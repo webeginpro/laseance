@@ -15,7 +15,7 @@ class HomeController extends AbstractController
 
         return $this->render(
             'home/home.html.twig',
-            ['title' => "La Seance Stream"]
+            ['title' => "LA SÉANCE STREAM"]
         );
     }
 }
